@@ -1,0 +1,18 @@
+# Editor
+.vscode/
+.idea/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Configuración local (cada quien tiene la suya; usa config/config.example.php)
+config/config.php
+
+# Copias de seguridad, logs y utilidades locales
+*.bak
+*.log
+instalar-bibliotech-php*.ps1
+agregar-modulos-admin.ps1
+preparar-github.ps1
